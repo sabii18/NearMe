@@ -172,7 +172,7 @@ marina.html
 
 ## OUTPUT
 
-![alt text](<sabii/Screenshot 2025-12-11 111406.png>)
+![alt text](<sabii/map.png>)
 ![alt text](<sabii/saveetha college.png>)
 ![alt text](<sabii/cit college.png>)
 ![alt text](<sabii/chennai airport.png>)
